@@ -1,2 +1,3 @@
 # delikateska-grabber
-delikateska.ru grabber
+
+Script to download receipes from delikateska.ru
